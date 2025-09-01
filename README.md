@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🍊 Hi, I'm Kyle — Founder of 橙子8设计
 
-<!--
-**MicleMing/MicleMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 欢迎来到我的 GitHub！  
+我是 **橙子8** 的创始人，专注于打造简单而强大的设计产品。  
 
-Here are some ideas to get you started:
+### 🚀 我在做的事
+- **橙子8设计**：一个高效的在线[设计工具](https://www.ichengzi8.com/)，服务于电商、物流等行业  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 联系我
+- Email: 859361486@qq.com
+
+---
+> 🍊 橙子8设计 —— 简单的工具，强大的可能。
+
